@@ -127,5 +127,6 @@ img {
 @media (width < 600px) {
   main {
     flex-wrap: wrap;
+    flex-wrap: wrap;
   }
 }
